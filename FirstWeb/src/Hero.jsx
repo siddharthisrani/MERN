@@ -11,7 +11,7 @@ import Card from "./Card"
    return (
     <>
       
-      <div className='homevideo'>
+      <div className='homevideo' id='home'>
       <video src={homevid} muted autoPlay loop ></video>
       </div>
 

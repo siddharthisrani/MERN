@@ -9,14 +9,14 @@
 
               <nav>
                 <ul>
-                <li><a href="">Home</a></li> 
-                <li><a href="">Cards</a></li> 
-                <li><a href="">Service</a></li>
-               <li><a href="">Contact Us</a></li>  
+                <li><a href="#home">Home</a></li> 
+                <li><a href="#card">Cards</a></li> 
+                <li><a href="#detail">Service</a></li>
+               <li><a href="#foot">Contact Us</a></li>  
                 </ul>
               </nav>
 
-              <button>Download</button>
+              <button>App Download</button>
 
         </header>
 
