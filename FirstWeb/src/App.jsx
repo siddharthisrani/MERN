@@ -1,9 +1,9 @@
-import Navbar from "./Navbar"
-import Hero from "./Hero"
-import Products from "./Product.js"
-import CardbyData from "./CardbyData.jsx"
-import Section from './Section.jsx'
-import Footer from './Footer.jsx'
+import Navbar from "./components/Navbar.jsx"
+import Hero from "./components/Hero.jsx"
+import Products from "./database/Product.js"
+import CardbyData from "./components/CardbyData.jsx"
+import Section from './components/Section.jsx'
+import Footer from './components/Footer.jsx'
 const App = () => {
   return (
      <>
