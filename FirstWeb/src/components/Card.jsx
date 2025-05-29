@@ -1,6 +1,6 @@
 const Card = ({ model, price, emi, month, img }) => {
   return (
-    <div className="card-container">
+    <div className="card-container" id="card">
       <div className="card">
         <img src={img} alt={`iPhone ${model}`} />
         <h2>iPhone {model} Pro</h2>
