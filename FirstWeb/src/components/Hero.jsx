@@ -1,9 +1,9 @@
  import React from 'react'
 
-import homevid from './assets/home.mp4'
- import img1 from './assets/cardimg1.png'
- import img2 from './assets/cardimg2.png'
- import img3 from './assets/cardimg3.png'
+import homevid from '../assets/home.mp4'
+ import img1 from '../assets/cardimg1.png'
+ import img2 from '../assets/cardimg2.png'
+ import img3 from '../assets/cardimg3.png'
 import Card from "./Card"
 
  

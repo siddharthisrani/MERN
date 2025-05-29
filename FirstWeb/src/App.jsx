@@ -4,6 +4,7 @@ import Products from "./database/Product.js"
 import CardbyData from "./components/CardbyData.jsx"
 import Section from './components/Section.jsx'
 import Footer from './components/Footer.jsx'
+import Features from "./components/Features.jsx"
 const App = () => {
   return (
      <>
@@ -16,8 +17,9 @@ const App = () => {
           <CardbyData key={product.id} product={product} />
         ))}
       </div>
-
+     <Features/>
       <Section/>
+
       <Footer/>
      
      </>

@@ -1,7 +1,7 @@
- import img1 from './assets/cardimg1.png'
- import img2 from './assets/cardimg2.png'
- import img3 from './assets/cardimg3.png'
- import img4 from './assets/cardimg4.png'
+ import img1 from '../assets/cardimg1.png'
+ import img2 from '../assets/cardimg2.png'
+//  import img3 from './assets/cardimg3.png'
+ import img4 from '../assets/cardimg4.png'
 
 let Products= [
  {
