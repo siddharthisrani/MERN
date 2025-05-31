@@ -5,7 +5,7 @@ let App=()=> {
 
   const start = () => {
     setTimeout(() => {
-      setText("Time's up!");
+      setText("Time's up");
     }, 3000); // 3 seconds
   };
 
